@@ -102,7 +102,6 @@ int analogReadPlus()
   return Vval;
 }
 
-
 void initTft() 
 {
   last_cursor = 10;
